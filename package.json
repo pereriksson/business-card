@@ -1,0 +1,22 @@
+{
+  "name": "business-card",
+  "version": "1.0.0",
+  "description": "An interactive business card run though NPX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "npx-test": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pereriksson/business-card.git"
+  },
+  "author": "Per Eriksson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pereriksson/business-card/issues"
+  },
+  "homepage": "https://github.com/pereriksson/npx-test#readme"
+}
